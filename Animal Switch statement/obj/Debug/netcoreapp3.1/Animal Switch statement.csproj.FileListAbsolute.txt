@@ -1,0 +1,13 @@
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\bin\Debug\netcoreapp3.1\Animal Switch statement.exe
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\bin\Debug\netcoreapp3.1\Animal Switch statement.deps.json
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\bin\Debug\netcoreapp3.1\Animal Switch statement.runtimeconfig.json
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\bin\Debug\netcoreapp3.1\Animal Switch statement.runtimeconfig.dev.json
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\bin\Debug\netcoreapp3.1\Animal Switch statement.dll
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\bin\Debug\netcoreapp3.1\Animal Switch statement.pdb
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\obj\Debug\netcoreapp3.1\Animal Switch statement.csprojAssemblyReference.cache
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\obj\Debug\netcoreapp3.1\Animal Switch statement.AssemblyInfoInputs.cache
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\obj\Debug\netcoreapp3.1\Animal Switch statement.AssemblyInfo.cs
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\obj\Debug\netcoreapp3.1\Animal Switch statement.csproj.CoreCompileInputs.cache
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\obj\Debug\netcoreapp3.1\Animal Switch statement.dll
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\obj\Debug\netcoreapp3.1\Animal Switch statement.pdb
+C:\Users\Marco Docot\source\repos\Animal Switch statement\Animal Switch statement\obj\Debug\netcoreapp3.1\Animal Switch statement.genruntimeconfig.cache
